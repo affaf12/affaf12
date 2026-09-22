@@ -74,8 +74,8 @@
 ### 🚀 Latest Repositories
 <!-- These update automatically — see .github/workflows/update-readme.yml -->
 <!-- REPOS-START -->
-- [**nextgen-lead-generator**](https://github.com/affaf12/nextgen-lead-generator) — AI-powered Google Maps lead generation & website quality analyzer by NextGen Analytics
 - [**nextgen-analytics-social-media-tool**](https://github.com/affaf12/nextgen-analytics-social-media-tool) — AI-assisted social media publishing & CRM tool — schedule and publish posts across Facebook, Instagram, Threads, LinkedIn, Blogger, Medium & Substack, with lead tracking. FastAPI + React.
+- [**nextgen-lead-generator**](https://github.com/affaf12/nextgen-lead-generator) — AI-powered Google Maps lead generation & website quality analyzer by NextGen Analytics
 - [**nextgen-analytics-ai**](https://github.com/affaf12/nextgen-analytics-ai) — NextGen Analytics - Free GPT-6 Astra with Puter OAuth | Each user uses their own isolated system (User-Pays Model) | Meta AI style chat with file upload
 - [**jawharat-albihar-umrah**](https://github.com/affaf12/jawharat-albihar-umrah) — VIP Umrah Service website for Jawharat Al-Bihar, Buraidah.
 - [**affaf12.github.io**](https://github.com/affaf12/affaf12.github.io) — Personal portfolio website showcasing my projects, skills, and contact information.

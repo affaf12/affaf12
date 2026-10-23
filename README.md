@@ -86,7 +86,7 @@
 ### 🚀 Latest Repositories
 <!-- These update automatically — see .github/workflows/update-readme.yml -->
 <!-- REPOS-START -->
-- [**nextgen-analytics**](https://github.com/affaf12/nextgen-analytics) — AI-powered analytics agency site + API: public website (React + Vite) and FastAPI backend for data analytics, automation, and AI solutions
+- [**nextgen-analytics**](https://github.com/affaf12/nextgen-analytics) — No description yet
 - [**nextgen-analytics-social-media-tool**](https://github.com/affaf12/nextgen-analytics-social-media-tool) — AI-assisted social media publishing & CRM tool — schedule and publish posts across Facebook, Instagram, Threads, LinkedIn, Blogger, Medium & Substack, with lead tracking. FastAPI + React.
 - [**nextgen-lead-generator**](https://github.com/affaf12/nextgen-lead-generator) — AI-powered Google Maps lead generation & website quality analyzer by NextGen Analytics
 - [**nextgen-analytics-ai**](https://github.com/affaf12/nextgen-analytics-ai) — NextGen Analytics - Free GPT-6 Astra with Puter OAuth | Each user uses their own isolated system (User-Pays Model) | Meta AI style chat with file upload

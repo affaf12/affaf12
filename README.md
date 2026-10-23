@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Muhammad Affaf 👋</h1>
-<h3 align="center">AI & Power BI Developer · Founder, NextGen Analytics — Karachi, Pakistan 🇵🇰</h3>
+<h3 align="center">Data Analytics & AI Engineer · Founder, NextGen Analytics — Karachi, Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+Power+BI+dashboards+that+tell+a+story;Shipping+AI-powered+automation+tools;Solo+founder+%40+NextGen+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+Power+BI+dashboards+that+tell+a+story;Shipping+AI-powered+automation+tools;Solo+founder+%40+NextGen+Analytics;Turning+messy+data+into+profit-driving+insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadaffaf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://affaf12.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://nextgen-analytics-delta.vercel.app"><img src="https://img.shields.io/badge/NextGen_Analytics-2EA3F2?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:muhammadaffaf746@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -47,10 +48,10 @@
 
 | Project | What it does |
 |---|---|
-| **[Coca-Cola Sale Dashboard](https://github.com/affaf12/Coca-Cola-Sale-Dashboard-)** | Sales performance analysis and interactive reporting built on Coca-Cola sales data |
+| **[Coca-Cola Sale Dashboard](https://github.com/affaf12/Coca-Cola-Sale-Dashboard-)** | Sales performance analysis and interactive reporting built on Coca-Cola sales data — designed to surface trends and KPIs at a glance |
 | **Employee Promotion Analytics Dashboard** | Power BI dashboard analyzing the factors that drive employee promotions |
 | **Inventory Management Dashboard** | Stock-level optimization and forecasting for inventory planning |
-| **Dubai Elite Properties Dashboard** | Real estate analytics with interactive drill-down reporting |
+| **Dubai Elite Properties Dashboard** | Real estate analytics with interactive drill-down reporting for faster decision-making |
 
 ---
 
@@ -71,10 +72,21 @@
 
 ---
 
+### 💼 What I Can Do For Your Business
+
+- 📈 **Turn your Excel chaos into a Power BI dashboard** — see your sales, inventory, and KPIs in one click
+- 🤖 **Automate repetitive work with AI** — lead generation, outreach, resume screening, and customer support chatbots
+- 📱 **Connect WhatsApp Business API** — send bulk updates, run campaigns, and manage contacts from one dashboard
+- 🧠 **Build LLM-powered tools** — custom chatbots, document Q&A, and data assistants trained on your business data
+
+> 💬 Have a data problem you want solved? [Email me](mailto:muhammadaffaf746@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/muhammadaffaf/).
+
+---
+
 ### 🚀 Latest Repositories
 <!-- These update automatically — see .github/workflows/update-readme.yml -->
 <!-- REPOS-START -->
-- [**nextgen-analytics**](https://github.com/affaf12/nextgen-analytics) — No description yet
+- [**nextgen-analytics**](https://github.com/affaf12/nextgen-analytics) — AI-powered analytics agency site + API: public website (React + Vite) and FastAPI backend for data analytics, automation, and AI solutions
 - [**nextgen-analytics-social-media-tool**](https://github.com/affaf12/nextgen-analytics-social-media-tool) — AI-assisted social media publishing & CRM tool — schedule and publish posts across Facebook, Instagram, Threads, LinkedIn, Blogger, Medium & Substack, with lead tracking. FastAPI + React.
 - [**nextgen-lead-generator**](https://github.com/affaf12/nextgen-lead-generator) — AI-powered Google Maps lead generation & website quality analyzer by NextGen Analytics
 - [**nextgen-analytics-ai**](https://github.com/affaf12/nextgen-analytics-ai) — NextGen Analytics - Free GPT-6 Astra with Puter OAuth | Each user uses their own isolated system (User-Pays Model) | Meta AI style chat with file upload
